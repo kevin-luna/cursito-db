@@ -30,7 +30,7 @@ CREATE TABLE workers (
     email VARCHAR(64) NOT NULL UNIQUE,
     password VARCHAR(255) NOT NULL, -- Almacenar como hash
     name VARCHAR(45) NOT NULL,
-    fathers_surname VARCHAR(40) NOT NULL,
+    father_surname VARCHAR(40) NOT NULL,
     mother_surname VARCHAR(40),
     position SMALLINT NOT NULL, -- 0 = docente, 1 = jefe de departamento
     CONSTRAINT fk_department
