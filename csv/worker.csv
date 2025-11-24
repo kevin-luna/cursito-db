@@ -1,0 +1,101 @@
+id,department_id,rfc,curp,sex,telephone,email,password,name,fathers_surname,mother_surname,role
+f06207d1-a62d-40b9-af7d-c10c3eb9a443,1c372529-1f4f-42ae-894c-04742a5a990d,UiCS487883mXD,RXxL331137FYtaBdQS,1,0498621003,quinonesclara@example.org,nNuEOVkw#Q7p,Jonás,Valle,García,0
+d170355f-55d2-4246-8deb-6438477aee47,74c3ae12-7a2e-401f-83bf-628e046d9a65,uTVl164819UUz,rjtY838878aZILToDR,1,9774966626,alberto12@example.net,Jx3cvGw_&*rc,Claudio,Valverde,Rivera,0
+4bb3a531-27a8-47d3-a644-38fc4868b98c,4fcfe8b8-aa91-41dc-a57f-b3ae57745b93,CpcT543941qzB,DONV957496jQkrxHZm,0,9647624235,barriosisabela@example.com,w%gQScua94Y$,Humberto,Caraballo,Partida,0
+387a1aec-ec56-4fc0-9b33-13ad2c8cc5fb,cd7b2335-24b2-488d-abfb-530f1576c02b,BreR792666rpx,qBFf473763CDEWqaEX,1,0770037706,duenassantiago@example.com,v#6XK%s4LJe@,Patricio,Roque,Elizondo,1
+57cc19f7-a43a-48ac-ab6d-5bcd4329070d,5909277c-b22d-45a1-83e5-86da0a34179f,mzBO679987HGE,quWc240783SBpGdxYi,0,3411550449,luceronatalia@example.net,lz6UTeLh_2Sz,Leonardo,Sisneros,Salgado,0
+cccde60c-0811-4888-a87a-9a4e22a6eaad,c7afbddd-a72e-4c35-a032-46dfc1a6d8e7,JEXP411545JTn,PNhC770305GqJmVVYL,1,6811854618,casillasernesto@example.org,!2xWgEYTj6(^,Francisca,Salgado,Orosco,1
+aac2c41a-2408-44b9-9617-140f86e3d4ec,5909277c-b22d-45a1-83e5-86da0a34179f,zbLM485595RUC,zpvu365164sUKPOfpZ,0,6810968417,solorzanocamila@example.com,!zmOTbqH2hnz,Mayte,Porras,Mejía,1
+aa6f3e49-4ec4-45b1-9595-cb371ca7df40,add9993b-bf77-4413-9edc-c414dbf349ef,ulRI947248SWh,DUMF539138kanKcLPV,0,9350245957,gmontoya@example.org,1qWVOiyH)U96,Julio,Ayala,Zarate,1
+87c02581-5dbc-48b1-93fe-4e3f0c8831f1,9230c297-4e40-4162-8e71-608523d09941,qqoj228161YGW,JSja181784kExjoveR,0,4832572814,vanegaslorenzo@example.org,fl2P2RjmlD^!,Reina,Gracia,Muñiz,0
+aca2b08d-2bb8-49b7-8270-0d8a148c472c,863e560f-fb2b-465b-8c24-a3371c1edcf4,yYrt195131NOL,qzfb290142KxAtTvgl,0,3032379799,tiradoirma@example.com,v77GteaL+U*!,Violeta,Villaseñor,Montes,1
+48e96ae9-dccc-4cb9-bb0e-eccfe9ad2c20,bf2e1a05-97f0-495f-b2cf-4b765c1010bc,IFxJ492133dTu,EnVy063864PyQENzaE,1,9485294991,dmarrero@example.com,$!sw6DXhY9$5,Eloisa,Vélez,Anguiano,0
+0abed7a3-7d53-4568-8248-44b6b7083a45,303ee86e-73c9-419b-b76e-3f8081cd0a97,yxUZ455226rQv,DgNR870701CTujySZj,1,2862261605,jacinto14@example.org,2&mANmGt_ovm,Esteban,Corral,Ocampo,1
+8ed53e6d-f1bf-453e-9439-5a282400afe1,05013eba-e400-445d-b791-1813d5ef6fea,jJaW015997Jra,XLQz154813vXUlEyPb,1,5689271689,maria-eugenia83@example.com,qDJAu!v)Cw3),Juana,Madera,Terán,0
+9e587f4f-beee-493c-99c6-e085e7683ca7,efddfe12-a660-4efb-a5f2-e050285d42b7,CZQt832395Nrj,MSVf451614leYxcnNd,0,7597275582,pmena@example.net,(9B_lvt2ryov,María Eugenia,Henríquez,Quezada,0
+b4b2fb57-609a-4f2c-8976-d10a96339c04,7d428e20-2e81-4e83-a971-ff542551c6a7,lrve127993mmd,ejhz536086aVJKYmBi,0,5001036946,ariadnamesa@example.com,0!wRQLs1Xz8x,Rolando,Apodaca,Valle,0
+cacd3a10-adfd-4c8d-88b1-5de389962517,fb657c18-43a0-4f83-94ff-13c408a1b8b1,GDNu109919UKm,Lghu218799UiclydVL,1,9204498217,ana-maria77@example.org,%3Jj$vj9Yj*#,Dolores,Zelaya,Aranda,1
+2e0e9bed-920f-4be5-bde9-fc978c967f95,445fca2b-d64e-46d9-9b97-b88d6798c0a3,qjPT732035wPK,afvV862542rjlVDcHD,1,8333072307,qtejada@example.com,63ay8oUpI@Xj,Abelardo,Tafoya,Estévez,1
+45e5fe5e-bcbe-419e-8e39-b6646ab64bdf,2df01000-2a20-4f18-9f67-9c9ac71260ff,nGAD945561fUA,hRnp503405SplVycAf,0,2333777562,epelayo@example.net,*8Q)(*Aggitn,Guillermo,Puga,Guajardo,1
+aed89355-899c-46f0-adc7-b2b92158a0eb,4fcfe8b8-aa91-41dc-a57f-b3ae57745b93,Lngc015338IGt,wZqZ173680IPMjFglV,0,9740227556,torrezcamilo@example.net,*9gp9!Q&kFCt,Genaro,Ulibarri,Carrero,1
+960a5ed7-70ac-417f-a263-d9ab19272c2d,4fcfe8b8-aa91-41dc-a57f-b3ae57745b93,ZYYr247453qeG,iYSA949434bFQmgXqc,1,1245838131,maria-cristinaapodaca@example.net,*KO@IGWj)6Og,Micaela,Pabón,Feliciano,1
+2c1064d3-80ee-4213-bd29-843c9ddc1a27,5909277c-b22d-45a1-83e5-86da0a34179f,BGXV419019aFI,Qntg831577LrDtxNEI,1,1958960464,joaquinocampo@example.com,s$^Vwwm&W2o@,Federico,Ramírez,Negrete,0
+20d9d3cd-2d25-4d0e-8297-cda2f93d9de6,786917de-e7dc-4f0a-9cbe-8524e6841c98,REwS592937Szm,lRjX840522lTNyREWJ,0,9242020406,cesar30@example.com,fCB6$%Oi!9#S,Elisa,Collado,Quesada,0
+bbd6f8b0-7583-4e05-8379-574f9cb0ee3d,74c3ae12-7a2e-401f-83bf-628e046d9a65,pAbN618958jtm,cOIX992132AogERoXp,1,7714913422,taniasalinas@example.net,$U551EGkNZU^,Miguel Ángel,Beltrán,Echeverría,0
+f57bb1e3-f01b-458b-8515-7958ff5deb03,786917de-e7dc-4f0a-9cbe-8524e6841c98,PJUA868711LEy,ZucA032505RzHzMwMd,0,3011715512,jacobosanches@example.com,M1vatalh#2NY,Amanda,Duarte,Lugo,0
+a8d224e3-9b54-40f2-b88d-a6ef89a588b6,c7afbddd-a72e-4c35-a032-46dfc1a6d8e7,cIvb281511zKl,NvWi536833iKoxYGLi,0,4441447579,poncecitlali@example.net,K+#P1Isu4rT@,Flavio,Carrasco,Romo,1
+72b0367c-5de9-4b54-a706-83ea8cc2bc61,c7afbddd-a72e-4c35-a032-46dfc1a6d8e7,hxlE307310OAM,aeuI697803AteXbqPY,1,0419903860,britoamalia@example.org,9iAOFmAe$9NK,Noemí,Nieto,Melgar,0
+fd3cb093-c40a-4610-aadd-bca07500104f,7fd2c20b-e4d6-411a-80ee-3cdd99f299b8,BxTW134766tMg,YexK587034fWcdHtDr,1,9285095707,indiraarroyo@example.net,w^7XsVfZkJtT,Luisa,Gracia,Lucio,0
+b0a37b6b-3f33-4ba8-aec6-9c16799ec147,445fca2b-d64e-46d9-9b97-b88d6798c0a3,KZEA472787lod,XdsB874082xmNVQjQz,0,6266298356,walvarado@example.org,x_r5ClXF#jsr,Sofía,Gastélum,Vaca,0
+06665096-443a-41e6-baf6-49f252c4b526,2df01000-2a20-4f18-9f67-9c9ac71260ff,LrJX721516Nuo,mLgH412834IRaXOamw,0,1511554298,bherrera@example.com,fd5WFcTcakz_,Alicia,Montalvo,Zapata,1
+f7d91879-e540-47d3-87fa-a90619d21644,0e584827-9f9a-400e-b10b-ab1d83a61bc6,Lfhm837207FFY,tFBM930576bzmVTdZr,1,8466882579,josefina35@example.net,S+9vSqA^7w@V,Luz,Verdugo,Canales,1
+17e1cea2-9562-4383-9319-88b48f8c8e71,fb657c18-43a0-4f83-94ff-13c408a1b8b1,Pxhx440966Xpv,oSNE538981HtSxWiXX,1,4256440901,drosario@example.net,_E2p0qh1_1Jd,Mónica,Varela,Granado,0
+8c65440d-2256-49dc-a6db-8664a506b3d1,05013eba-e400-445d-b791-1813d5ef6fea,rACs652401kCY,oxtm986048qXvBToxm,1,7723744245,maria-eugenia43@example.com,@&MC+xnv$07w,Catalina,Partida,Carrero,1
+28ed88f0-7e49-4962-90c9-3d2f64a88a60,c7afbddd-a72e-4c35-a032-46dfc1a6d8e7,GKio135871wgC,UdZQ928611rJXckRMd,1,7380281667,jmenendez@example.com,uCX^Ok^qFIw1,Aurora,Salazar,Salcido,0
+ed2c39c6-66e6-4dfb-9d9d-d125c2cbc4c5,445fca2b-d64e-46d9-9b97-b88d6798c0a3,FRJC620040YVw,YujZ238625smkuZgDL,0,6197175930,wnava@example.net,)hOJ_O6z1%16,Octavio,Velasco,Véliz,0
+faab6791-a37b-45d8-8493-e0bb03ceb931,9230c297-4e40-4162-8e71-608523d09941,kucb995198MnL,IUat213773UYpsJOJx,0,2770122229,mateo49@example.com,!45YD^XGf^sS,Jaime,Domínguez,Zelaya,0
+7355254e-ffff-4403-8090-ca0f93052f45,1b090e7b-becd-4241-9b4a-6365c93b33c5,yRzq769195ErK,WLxB355462fBEPwjcS,0,9402248237,leonel57@example.net,)H1$W6Anm9*G,Ana María,Matías,Aguilera,1
+b2f80605-45af-4808-8bb3-08b7e0514a66,7d428e20-2e81-4e83-a971-ff542551c6a7,JLmY195627fVi,WZUY348776VprOuDBu,1,0497441796,posadarafael@example.net,D#xD&CHhLR0E,Ana Luisa,Gaytán,Roybal,1
+d462581f-d396-40a0-8447-e8059e9f71bf,c7afbddd-a72e-4c35-a032-46dfc1a6d8e7,OFyI819798Ufm,SKWu320292apgJFift,0,2844760681,wreyna@example.org,*f9Rnduyqt6U,José Carlos,Ortiz,Arce,0
+00d4bac8-9a8c-453e-aef1-ba1c201320ae,1c372529-1f4f-42ae-894c-04742a5a990d,LOWy827063QNk,HkTk979629tWFQTBCq,0,5046672301,ursulajiminez@example.org,#(3xe1v9ZWcG,Esperanza,Tamayo,Flórez,0
+091590be-5b0d-4edf-b863-c0c1bf9a1afb,c7afbddd-a72e-4c35-a032-46dfc1a6d8e7,UcOj044693YmE,zoLM204256NZuTmmVJ,1,9961251279,armandoybarra@example.net,_YJEHHkcA9X+,José,Alcántar,Bustos,1
+48415c6d-0326-4cc3-a3db-dc35a5c1207c,efddfe12-a660-4efb-a5f2-e050285d42b7,RlzD321626LiF,znsU717094Ylfgmzfj,0,3424407181,juanaruiz@example.org,6^*W+YDfva*4,Mitzy,López,Aguilar,1
+727aa402-e84c-473e-b395-f84cbaf0f88f,5909277c-b22d-45a1-83e5-86da0a34179f,loSf921632NDs,kxqw315051FToUMUIj,1,6790652596,tania19@example.com,Z)f7CtIr)Ki*,Minerva,Navarrete,Ocasio,0
+0808dd49-953b-48ba-9cf6-190fb3e572e4,7fd2c20b-e4d6-411a-80ee-3cdd99f299b8,XoRH382060Itb,wvLi791471jMEkfOWw,0,0150726081,sofia28@example.net,(t_0MHXg^)Hs,Helena,Godoy,Altamirano,1
+25ff710f-da2e-4520-8dc0-de9c9148f874,863e560f-fb2b-465b-8c24-a3371c1edcf4,XGMX364329GNq,UPiS681347YhocmSoR,0,3156688098,monteroreynaldo@example.net,tQf#MvFaDmm5,Irene,Ibarra,Carrero,1
+0793f743-ffd8-453f-b53d-5ec0f7ab0a83,5909277c-b22d-45a1-83e5-86da0a34179f,QDSl414232heZ,wEmV638263OJyOSCzo,0,0875782409,catalina60@example.org,SO9@Vj2W+JT1,Anel,Delgado,Rael,1
+6ed787d8-3fa2-4335-8434-70643c94494c,9230c297-4e40-4162-8e71-608523d09941,YsTU180486QIo,OMuH911781NpHiCcve,1,3896708241,angelica79@example.org,^9KlxSfO3N(S,Luis,Vélez,Tovar,0
+51d4d5c3-7686-4bc6-9f4e-f279711998e9,1b090e7b-becd-4241-9b4a-6365c93b33c5,ZrLD257802kFr,DAWv525893VCskRHKD,0,1278294601,ernesto15@example.org,Ovz7YyUh&vdV,Blanca,Villaseñor,Espinoza,0
+b0cfaef5-5b10-4fcd-b902-be3e52aa124c,822326b5-003d-4b77-8723-8f1aa82bac3e,WMRt771307Tsc,cJPh810236hZaGvmBc,0,3324292828,violetabarraza@example.com,8J5$Ld&@se%H,Rodrigo,Colón,Corrales,1
+250728ca-1d03-4abd-8bb5-8fb82210a8ee,c7afbddd-a72e-4c35-a032-46dfc1a6d8e7,DEfk541090QPL,NeCW124293lSZaypRA,0,9384307001,lindacoronado@example.net,jT8H$_5gzv0&,Eugenia,Arredondo,Apodaca,1
+d3c0dfd4-2dc0-4526-b718-5129d55bf2fd,7d428e20-2e81-4e83-a971-ff542551c6a7,dtIU992208pbu,SKGf441282RWBWoqnQ,0,8220755315,cornejoalejandra@example.net,Q_i4*HomzL15,Aurora,Rivero,Godoy,0
+86ca3d59-5b6e-4752-af3f-2bc84147008e,2df01000-2a20-4f18-9f67-9c9ac71260ff,Xeai831564xAE,sMST888370qcwmNSUw,0,9447693225,cardenasluisa@example.org,z729HuNi+((5,David,Tejeda,Valadez,1
+916e6aaa-dd38-47df-badc-8b02478f4728,cd7b2335-24b2-488d-abfb-530f1576c02b,CLzX150359hPM,fydb111641LUYcAlRp,0,3878485432,jaimeguadalupe@example.com,W6lVW9sa_T(B,Eva,Córdova,Figueroa,0
+35df9f07-7ae0-4e70-abc6-e046f442e11c,0e584827-9f9a-400e-b10b-ab1d83a61bc6,JggZ069516mea,tXIM406663EBZIhtRN,1,6125974173,hcamacho@example.org,)0ecxjCsUEYl,Gonzalo,Gaitán,Baeza,0
+5dff8c85-867a-4395-a4c9-5df208f7c7a8,303ee86e-73c9-419b-b76e-3f8081cd0a97,zUaJ712173LGA,svYj856816CxIJrvMb,1,3468172296,leticia18@example.com,F0RKElSJ(rIy,Cristobal,Menéndez,Trejo,0
+0f63061c-adcf-4f01-87bf-2c8e81a85707,c7afbddd-a72e-4c35-a032-46dfc1a6d8e7,EEqG420008qZw,sxXX210878SsmuBwSe,0,4860061787,rosario59@example.org,)V8$A2s(OnoF,Marisol,Casares,Mota,1
+2fad6cb1-c5fc-4ac1-bfe5-212d10422275,99d70464-e491-4294-b34f-cb0ccce0956a,xqbv369017mwi,DUlX272452nGkSRsFs,0,4914094253,felipemora@example.com,R+QTnHU%Z03O,Salma,Velázquez,Cantú,1
+032f4150-ebcd-400d-82c2-8f97c9bbbc0e,add9993b-bf77-4413-9edc-c414dbf349ef,iAxR865181gVk,GePR538828yPtSQhmM,0,8120646250,maria-luisaesquivel@example.net,kR74KNlrSi%@,Pascual,Vanegas,Caballero,1
+7bdc651f-4259-4a04-a5ee-23af0afadc4b,863e560f-fb2b-465b-8c24-a3371c1edcf4,jcRm579400PTX,Tybj937570JQzXHLpm,0,2000699318,kbeltran@example.org,I+CQnQ(nPZ0M,Angélica,Sánchez,Aguilar,1
+8f0aaf8e-9974-42de-9418-484d73be5712,7fd2c20b-e4d6-411a-80ee-3cdd99f299b8,CCbs527687SuY,BJYM821398IoCSDEKp,0,0001898865,mercedes48@example.com,r7OulJoA&!q(,Luis Miguel,Lucio,Llamas,0
+14b013b9-0513-4656-9a96-b1b7b50cbca6,0f0eff31-67af-4318-9061-d9b1438e945a,OOKT448249ZLv,bTvh418760MxDUGPUB,0,2367599381,octaviotapia@example.net,bfW5TBmkG!(m,Verónica,Aranda,Téllez,0
+639c9a90-e5e5-492b-bf1f-27b69a17ff57,0f0eff31-67af-4318-9061-d9b1438e945a,AWZO342498gYL,KIKD616241ZibSIOxX,0,2411047349,vigilrolando@example.com,&MP!U6Kl^OmI,Susana,Rojo,Bermúdez,1
+1769d6ef-a50f-417f-b76e-0ba194f9334b,efddfe12-a660-4efb-a5f2-e050285d42b7,OiMr990741dKw,pIdL250009GCAMdlhD,1,5348720303,hmurillo@example.org,^Dm1Jd2UH%rW,Abigail,Barrientos,Castillo,0
+6a242240-0a7b-4dc9-bd1d-52587d677a28,0e584827-9f9a-400e-b10b-ab1d83a61bc6,MDPb109992oRk,BZBH890586tKDjSFkN,0,4908833568,isabelcarbajal@example.com,#gW2QfYmU6k^,Clara,Flores,Caraballo,1
+b60a3666-0256-41bf-9cd6-33e6f86d5d90,863e560f-fb2b-465b-8c24-a3371c1edcf4,cwjB192322Nbr,ZYzb182557GykbfWAf,1,5159894495,vgalindo@example.org,^zA7yS!rqelw,Anel,Briseño,Fernández,1
+a64793b9-cff6-42cc-933a-cd18a6cc3629,2df01000-2a20-4f18-9f67-9c9ac71260ff,SeTV033737PPN,MImE574579HOkGCrfG,1,6696876605,gustavobetancourt@example.com,T5$LbwdR)WoK,Inés,Muro,Cuellar,1
+96eb8b4d-08da-4fdd-8301-3a293ee4dd1f,add9993b-bf77-4413-9edc-c414dbf349ef,ForW582599zsb,Begg910522fVtXkwoB,0,1590625885,ana-maria91@example.org,t3Om7C*$&2T#,Ángela,Pedroza,Escamilla,1
+48890708-90d3-4e4e-b6c7-18a2cc317ae3,7d428e20-2e81-4e83-a971-ff542551c6a7,feBI050093lAl,NvfJ032703bnFoExLa,0,8231925458,elisa96@example.net,67!Vyqan^n7l,Bernabé,Correa,Madera,0
+4eeaba2d-b113-4a2f-9726-c39fa23f508f,74c3ae12-7a2e-401f-83bf-628e046d9a65,lYaR125868Lol,pIGq660881lGjytupS,0,5278169882,victoriasarabia@example.net,4NXwcMH5!18w,Sandra,Villalpando,Valenzuela,0
+aa7aad70-2c4d-47d9-8d3b-fe5544bff744,7fd2c20b-e4d6-411a-80ee-3cdd99f299b8,eaeG589734PRK,hYGO965768egoHVtcB,1,1296185895,casillasdaniela@example.net,@NUFmN4Xb8r+,Héctor,Carrero,Santana,1
+f2ba446f-942d-4572-86a7-deb96603e538,1c372529-1f4f-42ae-894c-04742a5a990d,XsMZ557745Dku,PDSZ773579sboREHnc,0,0316531794,hugoraya@example.net,M8%T2CJq4ZVf,María Elena,Zaragoza,Carrasco,1
+6bb16d8d-c243-41e7-830c-b6d4d3c83522,303ee86e-73c9-419b-b76e-3f8081cd0a97,kaFK539774pve,eCSp157880FYZSDZUA,1,7473276667,maria-cristinaortega@example.com,s!hMLXv@o41Q,Eugenio,Salgado,Matos,1
+b4caef0a-914f-4bb0-a679-07f2ca0c9540,2df01000-2a20-4f18-9f67-9c9ac71260ff,kqES409355qCc,oqAO083101PXbJaySp,0,4786687808,marcoscorrea@example.net,_Q)or@Dc*6IJ,Noelia,Ozuna,Romo,0
+fe6b1e37-c450-46e1-973c-7849f6834942,863e560f-fb2b-465b-8c24-a3371c1edcf4,EZKr938242aWQ,bhcw310795jWHnkMtH,1,9279017626,jonasarmendariz@example.net,j@yjNqKyVK91,Cristina,Vallejo,Borrego,0
+b3bc5d52-8c23-44c2-8b63-fd9937f096b6,74c3ae12-7a2e-401f-83bf-628e046d9a65,JcRa078392NZy,pLCl807568iEKNydsB,0,9993820170,karinaalva@example.net,(qc&%MYhY2D8,Eva,Palacios,Granado,1
+686030ce-ac94-4d80-8483-3177deeb8b1f,9230c297-4e40-4162-8e71-608523d09941,TMgp384571HIb,DDRC013025hLXGSFUF,1,3849008222,xmaldonado@example.com,k@GQMAKp!wF5,Gonzalo,Rivera,Esparza,0
+4eaea3da-89c1-4c88-a272-dcd815b6c19d,303ee86e-73c9-419b-b76e-3f8081cd0a97,XrTq199250udh,ctBK622922fthJYHbb,0,0292747348,renatosanabria@example.org,vgi)&HUy(z19,Mariana,Valentín,Tapia,1
+7e3d83a0-1535-433b-90e6-bf6f8c1fb04c,7fd2c20b-e4d6-411a-80ee-3cdd99f299b8,GtWu258529ZVC,BdlG692525vAUdRIQc,1,1930795293,morenoclaudia@example.org,@iOXt9AS0)#%,Felipe,Viera,Hernádez,0
+de893412-4fb0-48dc-8bda-eb8bf63e2af2,99d70464-e491-4294-b34f-cb0ccce0956a,bEJf549119Njz,zwxz685844LDDfFCbb,0,1706794000,vmata@example.org,AT+8#)&gE*1E,Ofelia,Gallegos,Aranda,1
+7a8ac316-a3a6-46fe-8948-24151886401f,863e560f-fb2b-465b-8c24-a3371c1edcf4,lNAF522504rje,pIEG913089doMOTkWi,0,6566936296,ledesmamaria-cristina@example.org,@F@ggoyws27Y,Aldonza,Coronado,Sanches,0
+cc30ae17-6eaa-425f-9f9f-ab43c262f19c,445fca2b-d64e-46d9-9b97-b88d6798c0a3,wipG085363faw,AyWj188290NrmtVNmA,1,3532380666,botellorosa@example.org,fwlHCq1t(1cu,Pedro,Villalobos,Alvarez,1
+7da58fd0-31e7-4eb4-b4f6-13e91c0ea46d,74c3ae12-7a2e-401f-83bf-628e046d9a65,swbP436494JbE,Scuh374054sMZfaQhG,0,6432843639,gguerrero@example.com,*cr$Kp^fQ37j,Luis Miguel,Mojica,Cantú,0
+caed2730-ff8e-4368-b604-e37a0a424f1c,fb657c18-43a0-4f83-94ff-13c408a1b8b1,lkPx803629xSq,QmXU482991cRwvPkhw,0,8043721477,scano@example.com,^cS3Fu)z)!X0,María Eugenia,Gracia,Collazo,1
+34d5fee9-cff8-4f5c-a12f-8acef7bb06aa,99d70464-e491-4294-b34f-cb0ccce0956a,ggzl957086wuo,ugXq943921oLEosgau,0,0369006764,jimenezminerva@example.net,R&&bFx8wCQ)1,Lorena,Figueroa,Villegas,0
+23bb3f27-a342-4a6d-b081-ecda8c162eac,0f0eff31-67af-4318-9061-d9b1438e945a,aEWy388634usl,dDTc303360mGbLkPME,1,7741478985,lorenzo29@example.com,IEb*Z2Nky&gN,Porfirio,Maestas,Ayala,1
+a92b2eb3-f361-4b80-900a-f6ded6dcb40d,822326b5-003d-4b77-8723-8f1aa82bac3e,RNmq465187LYy,ovBo116020CkxEhoQm,0,9998456354,salvadordel-valle@example.org,V+suiUkj3OK7,José Emilio,Gallardo,Tello,0
+4524da4c-8d07-49c3-9acd-6ab9155917f6,bf2e1a05-97f0-495f-b2cf-4b765c1010bc,twLZ929032RQH,xSEl293803ClKzTSgh,1,3420568882,vgiron@example.net,mqOyQ6ip@0JT,Bruno,Gurule,Gollum,1
+4f3da0df-9862-49cd-b256-d7bf411882c6,fb657c18-43a0-4f83-94ff-13c408a1b8b1,hoUm661313FDM,glFZ151253aewdWGsK,1,4915251757,nbalderas@example.com,+Y4!@Sh87IKT,Aldonza,Tovar,Escalante,1
+7b144b08-3dc9-4038-9822-712c030a6305,2df01000-2a20-4f18-9f67-9c9ac71260ff,gciZ668492Qwh,tgQz723470oynIhrFd,1,6267854686,juan81@example.com,)M8g7Qi$dTa8,Nancy,Raya,Correa,1
+e7eade17-ddde-4f41-a74d-28f1011e2cd7,822326b5-003d-4b77-8723-8f1aa82bac3e,CnKX220519vGE,vTel349507uzxaCvKW,1,1058542730,terandiana@example.com,E_xFyxRpvA2s,Ana Luisa,Yáñez,Galindo,0
+f9397031-4637-4258-a31a-6b56e230ca79,cd7b2335-24b2-488d-abfb-530f1576c02b,lmLe133033qZt,XTxr263112GFgnKlPL,1,8039101189,ornelaseduardo@example.com,gP1PyVS+&s9(,Pamela,Arenas,Molina,0
+483313c9-ead9-4572-891f-fb999820c6b1,445fca2b-d64e-46d9-9b97-b88d6798c0a3,EhZd062619uSq,ZCWk444479zmBGBMgi,1,8950441363,victoriade-anda@example.net,A9E)QhxJ(&_F,Helena,Soliz,Rael,1
+c740b9c3-38dc-4748-b55f-a1d1c946b155,1c372529-1f4f-42ae-894c-04742a5a990d,GKRu179587dGf,YbRR253153UXhOctEo,1,4204135259,zaratemercedes@example.net,E&n3ZbX$u!#O,Teresa,Caraballo,Lozada,1
+b5547f87-a323-47ee-8682-1769fdb9fc61,7d428e20-2e81-4e83-a971-ff542551c6a7,VcRM990642xFr,DJRl791386NTumLNfE,0,9802784949,rubyabrego@example.org,w&4m8O)yi4NZ,Cynthia,Angulo,Vargas,1
+00a0ccdf-5402-4a02-99c9-b0a12a0d5e65,863e560f-fb2b-465b-8c24-a3371c1edcf4,rbQI534897VED,FmCJ682207QtQSyPPH,0,4097986586,dulcequintero@example.net,$XvB@+vsD)1A,Abelardo,Vera,Chávez,1
+1af973dd-e5e0-4735-a5f3-c8fe1b0a8a57,7fd2c20b-e4d6-411a-80ee-3cdd99f299b8,HDPG581534XNo,MFHO253341wVTReGve,1,1461563636,abigail31@example.com,@DV5$Sue(3ja,Silvano,Reséndez,Cervantes,1
+32aa4b26-5b83-414a-8a6c-c8a60e296c8f,0e584827-9f9a-400e-b10b-ab1d83a61bc6,dVnI476336FaO,AjSJ085983XXqYyuhh,0,3454989342,alejandro26@example.org,)9NFeB(uG1vP,Mariano,Niño,Vera,1
+7a3feca8-72b3-40a2-8501-1d76f488d5e7,7d428e20-2e81-4e83-a971-ff542551c6a7,CVBJ303607YtL,xOhM608966cNgtdJXm,0,5756692133,jesusgamboa@example.net,235K(xwu%yVY,Georgina,Henríquez,Gutiérrez,1
+f477c5a3-6a58-4303-a3db-bd18a78960f0,5909277c-b22d-45a1-83e5-86da0a34179f,pJvp839313Hjp,Fapb648446KHDYyeUv,1,7361872475,leticiacolon@example.net,fxSW^_yDBS6%,Martha,Sevilla,Ruelas,0
+f1556049-f6f7-4365-94c5-fe887827c3f1,cd7b2335-24b2-488d-abfb-530f1576c02b,QeRH290436PhD,PwSU155575ByDxZPDf,0,3165698535,cantuhoracio@example.net,)3Er4g2O@mt!,Zeferino,Macías,Rodríguez,1
+6b354506-3bed-49f5-9825-31e685541d6f,2df01000-2a20-4f18-9f67-9c9ac71260ff,AGgf250884ljH,EaEb583686tAKUrSmv,0,7270590080,salazarangel@example.com,n5M$v44m^x2X,Teodoro,Delgado,Alcaraz,1
