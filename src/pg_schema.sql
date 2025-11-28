@@ -62,7 +62,7 @@ CREATE TABLE courses (
 CREATE TABLE questions (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     survey_id UUID NOT NULL,
-    question VARCHAR(100) NOT NULL,
+    question VARCHAR(255) NOT NULL,
     question_order SMALLINT NOT NULL,
     CONSTRAINT fk_survey
         FOREIGN KEY(survey_id) 
