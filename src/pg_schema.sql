@@ -31,7 +31,7 @@ CREATE TABLE workers (
     password VARCHAR(255) NOT NULL, -- Almacenar como hash
     name VARCHAR(45) NOT NULL,
     father_surname VARCHAR(40) NOT NULL,
-    mother_surname VARCHAR(40),
+    mother_surname VARCHAR(40) NOT NULL,
     position SMALLINT NOT NULL, -- 0 = docente, 1 = jefe de departamento
     CONSTRAINT fk_department
         FOREIGN KEY(department_id) 
